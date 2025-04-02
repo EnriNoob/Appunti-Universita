@@ -6,7 +6,7 @@
       {
         "id": "a77069fda9e961c7",
         "type": "tabs",
-        "dimension": 62.75605214152699,
+        "dimension": 62.756052141527,
         "children": [
           {
             "id": "cf8a2286a563021f",
@@ -28,14 +28,14 @@
             "id": "31104d84df6493ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TEMPLATES/README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "TEMPLATES/README.md",
+                "bFile": "TEMPLATES/README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           },
           {
@@ -66,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TEMPLATES/README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +93,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph view"
             }
           }
         ]
@@ -255,8 +254,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9783552687a6171c",
+  "active": "31104d84df6493ca",
   "lastOpenFiles": [
+    "TEMPLATES/README.md",
     "PROGRAMMAZIONE GRAFICA/notes/trasformazioni 3D.md",
     "PROGRAMMAZIONE GRAFICA/notes/tipi di illuminazione.md",
     "PROGRAMMAZIONE GRAFICA/notes/telecamere virtuali.md",
@@ -292,7 +292,6 @@
     "Texture Mapping.md",
     "UV Mapping.md",
     "PROGRAMMAZIONE GRAFICA/notes/triangolo.md",
-    "PROGRAMMAZIONE GRAFICA/notes/mesh triangolare.md",
     "PROGRAMMAZIONE GRAFICA/notes",
     "PROGRAMMAZIONE GRAFICA/images",
     "PROGRAMMAZIONE GRAFICA",
