@@ -165,54 +165,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9801bceda8038100",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TEMPLATES/README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for README"
-            }
-          },
-          {
-            "id": "6ffb2b89af0ec6fa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/SOMMARIO.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from SOMMARIO"
-            }
-          },
-          {
-            "id": "d9a3ed160f8388c0",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "00138216f5895d50",
             "type": "leaf",
             "state": {
@@ -238,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7170b2e4c5ffa501",
+  "active": "9783552687a6171c",
   "lastOpenFiles": [
     "PROGRAMMAZIONE GRAFICA/notes/SOMMARIO.md",
     "TEMPLATES/README.md",

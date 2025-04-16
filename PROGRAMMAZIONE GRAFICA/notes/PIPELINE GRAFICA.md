@@ -1,4 +1,4 @@
-Una volta visto gli elementi di base della programmazione grafica, andiamo a vedere nel concreto quello che fa una GPU quando la CPU fornisce un frame, degli oggetti 3D che la scheda grafica dovrà occuparsi di tutto il Rendering
+Una volta visto gli elementi di base della programmazione grafica, andiamo a vedere nel concreto quello che fa una GPU quando la CPU fornisce un frame, degli oggetti 3D che la scheda grafica dovrà occuparsi di tutto il Rendering.
 
 ![[Pasted image 20250324142643.png]]
 
