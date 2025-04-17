@@ -4,97 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a77069fda9e961c7",
+        "id": "3ddbc2a535aa10f4",
         "type": "tabs",
-        "dimension": 62.756052141527,
         "children": [
           {
-            "id": "cf8a2286a563021f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/SOMMARIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SOMMARIO"
-            }
-          },
-          {
-            "id": "e61c63b33e94dd00",
+            "id": "d2d1f079bd2e1c4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/MODELLING.md",
+                "file": "INGEGNERIA DEI REQUISTI/notes/raffinamento dei goal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MODELLING"
-            }
-          },
-          {
-            "id": "7170b2e4c5ffa501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/PIPELINE GRAFICA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PIPELINE GRAFICA"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ad46e2fb4f3bba95",
-        "type": "tabs",
-        "dimension": 37.243947858473,
-        "children": [
-          {
-            "id": "3e0883e834141004",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/PIPELINE GRAFICA.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2911069515362228,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of PIPELINE GRAFICA"
+              "title": "raffinamento dei goal"
             }
           }
         ]
@@ -188,13 +112,61 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f19deac3c4937a4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raffinamento dei goal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for raffinamento dei goal"
+            }
+          },
+          {
+            "id": "92d8a9d6dbdb42d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raffinamento dei goal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from raffinamento dei goal"
+            }
+          },
+          {
+            "id": "0a0fb5bc456d3453",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,51 +181,51 @@
   },
   "active": "9783552687a6171c",
   "lastOpenFiles": [
+    "Pasted image 20250416174408.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416174408.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416174038.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416173939.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416173845.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416173729.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416173017.png",
+    "Pasted image 20250416174038.png",
+    "Pasted image 20250416173845.png",
+    "Pasted image 20250416173939.png",
+    "Pasted image 20250416173729.png",
+    "INGEGNERIA DEI REQUISTI/notes/goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/raffinamento dei goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/categoria dei goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/tipi di goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/soft goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/goal comportamentali.md",
+    "INGEGNERIA DEI REQUISTI/notes/requisiti.md",
+    "TEMPLATES/Math Paragraph.md",
+    "TEMPLATES/Section.md",
+    "INGEGNERIA DEI REQUISTI/notes/GOAL ORIENTATION.md",
+    "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
+    "INGEGNERIA DEI REQUISTI/notes/expectation.md",
+    "INGEGNERIA DEI REQUISTI/notes/granuralità dei goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/proprietà del dominio.md",
+    "INGEGNERIA DEI REQUISTI/notes/agente.md",
     "PROGRAMMAZIONE GRAFICA/notes/SOMMARIO.md",
+    "PROGRAMMAZIONE GRAFICA/notes/proprietà dei materiali.md",
+    "PROGRAMMAZIONE GRAFICA/notes/PIPELINE GRAFICA.md",
+    "PROGRAMMAZIONE GRAFICA/notes/MODELLING.md",
+    "PROGRAMMAZIONE GRAFICA/notes/intro.md",
+    "TEMPLATES/Main Template.md",
+    "TEMPLATES/List element with sub paragraph.md",
     "TEMPLATES/README.md",
+    "INGEGNERIA DEI REQUISTI/notes",
+    "INGEGNERIA DEI REQUISTI/images",
+    "INGEGNERIA DEI REQUISTI",
     "PROGRAMMAZIONE GRAFICA/notes/trasformazioni 3D.md",
     "PROGRAMMAZIONE GRAFICA/notes/tipi di illuminazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/telecamere virtuali.md",
-    "PROGRAMMAZIONE GRAFICA/notes/sorgenti di luce.md",
-    "PROGRAMMAZIONE GRAFICA/notes/regole di proiezione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/proprietà dei materiali.md",
-    "PROGRAMMAZIONE GRAFICA/notes/coordinate di sistema.md",
-    "PROGRAMMAZIONE GRAFICA/notes/UV Mapping.md",
-    "PROGRAMMAZIONE GRAFICA/notes/Texture.md",
-    "PROGRAMMAZIONE GRAFICA/notes/Texture Mapping.md",
-    "PROGRAMMAZIONE GRAFICA/notes/PIPELINE GRAFICA.md",
-    "PROGRAMMAZIONE GRAFICA/notes/ANIMATION.md",
-    "coordinate di sistema.md",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324144820.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324142643.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324140224.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324135237.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324134229.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324134205.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324134137.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250324133752.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250320224402.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250320222842.png",
-    "PROGRAMMAZIONE GRAFICA/notes/MODELLING.md",
-    "PIPELINE GRAFICA.md",
-    "ANIMATION.md",
-    "PROGRAMMAZIONE GRAFICA/notes/intro.md",
-    "tipi di illuminazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/modellazione 3D.md",
-    "proprietà dei materiali.md",
-    "Texture.md",
-    "Texture Mapping.md",
-    "UV Mapping.md",
-    "PROGRAMMAZIONE GRAFICA/notes/triangolo.md",
     "PROGRAMMAZIONE GRAFICA/notes",
     "PROGRAMMAZIONE GRAFICA/images",
     "PROGRAMMAZIONE GRAFICA",
     "COMPLESSITA ALGORITMI/notes",
     "COMPLESSITA ALGORITMI/images",
     "INGEGNERIA DEL SOFTWARE/notes",
-    "INGEGNERIA DEL SOFTWARE/images",
-    "COMPLESSITA ALGORITMI",
-    "INGEGNERIA DEL SOFTWARE",
-    "TEMPLATES"
+    "INGEGNERIA DEL SOFTWARE/images"
   ]
 }
