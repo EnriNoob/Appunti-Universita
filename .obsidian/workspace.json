@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9783552687a6171c",
+  "active": "d2d1f079bd2e1c4c",
   "lastOpenFiles": [
     "Pasted image 20250416174408.png",
     "INGEGNERIA DEI REQUISTI/images/Pasted image 20250416174408.png",
