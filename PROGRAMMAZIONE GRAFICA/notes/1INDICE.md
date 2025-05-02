@@ -1,6 +1,7 @@
 
 
 - [[intro]]
+- [[MATEMATICA]]
 - [[MODELLING]]
 - [[ANIMATION]]
 - [[RENDERING]]
