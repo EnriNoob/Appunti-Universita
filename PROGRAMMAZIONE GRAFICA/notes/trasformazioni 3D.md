@@ -7,10 +7,10 @@ di un modello si può modificare quindi
 
 Le trasformazioni 3D più comuni sono:
 
-1. **Traslazione (Translation)**
-2. **Rotazione (Rotation)**
-3. **Scala (Scaling)**
-4. **Trasformazioni Composte (Combination of Transformations)**
+1. [[traslazione]]
+2. [[rotazione]]
+3. [[scala]]
+4. Trasformazioni Composte (Combination of Transformations)**
 
 Queste trasformazioni vengono applicate ai **vertici** di un modello utilizzando **matrici di trasformazione** da 4×4, che operano nel sistema di coordinate omogenee.
 
