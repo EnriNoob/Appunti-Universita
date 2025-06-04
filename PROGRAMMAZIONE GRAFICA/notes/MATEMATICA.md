@@ -5,3 +5,5 @@ La matematica in computer grafica è soltanto per la maggior parte delle volte t
 - [[vettori]]
 - [[matrici]]
 - [[trasformazioni]]
+- [[sistema di coordinate]]
+- [[proiettare da 3d in 2d]]

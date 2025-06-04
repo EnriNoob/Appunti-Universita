@@ -1,4 +1,4 @@
-#### Data: 05/11/2024 - 11:10
+g#### Data: 05/11/2024 - 11:10
 
 Questo attacco diretto dal gruppo SandWorm (russi), aveva come obiettivo tre centrali elettriche ucraine per causare blackout con un periodo da 1 a 6 ore 
 

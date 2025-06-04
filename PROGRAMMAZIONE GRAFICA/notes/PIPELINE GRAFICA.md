@@ -15,4 +15,4 @@ A livello alto quello che succede è che partendo dal mondo che è espresso in u
 
 Alla fine otteniamo difatti un'immagine renderizzata
 
-Questa linea coinvolge [[coordinate di sistema]]
+Questa linea coinvolge [[sistema di coordinate]]

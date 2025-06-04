@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3ddbc2a535aa10f4",
+        "id": "541e611074e8bb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "e340e53fbad333c9",
+            "id": "db737248d4651f90",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/MATEMATICA.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATEMATICA"
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c494a3e0bdf41eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d991509ce880e845",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ing_requisiti"
             }
           }
         ]
@@ -96,13 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/MATEMATICA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MATEMATICA"
+              "title": "Outline"
             }
           },
           {
@@ -121,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMAZIONE GRAFICA/notes/MATEMATICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MATEMATICA"
+              "title": "Backlinks"
             }
           },
           {
@@ -140,12 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raffinamento dei goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from raffinamento dei goal"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,12 +172,12 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,46 +190,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e340e53fbad333c9",
+  "active": "db737248d4651f90",
   "lastOpenFiles": [
-    "trigonometria.md",
-    "traslazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/trigonometria.md",
-    "PROGRAMMAZIONE GRAFICA/notes/traslazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/trasformazioni.md",
-    "PROGRAMMAZIONE GRAFICA/notes/trasformazioni affini.md",
-    "PROGRAMMAZIONE GRAFICA/notes/scala.md",
-    "PROGRAMMAZIONE GRAFICA/notes/rotazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/matrici.md",
-    "PROGRAMMAZIONE GRAFICA/notes/coordinate omogenee.md",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504160755.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504160748.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504160134.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504155628.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504155201.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504154942.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504124256.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504122930.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504121735.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250504121531.png",
-    "trasformazioni affini.md",
-    "trasformazioni.md",
-    "rotazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/MATEMATICA.md",
-    "coordinate omogenee.md",
-    "Untitled 1.canvas",
+    "attenuazione.md",
+    "PROGRAMMAZIONE GRAFICA/notes/muovere camera.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luci.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luce spotlight.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luce posizionale.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luce in computer grafica.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luce e colori nella realtà.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luce direzione.md",
+    "PROGRAMMAZIONE GRAFICA/notes/Diffuse materiale lambertiano.md",
+    "PROGRAMMAZIONE GRAFICA/notes/costruzione matrice view.md",
+    "PROGRAMMAZIONE GRAFICA/notes/attenuazione.md",
+    "PROGRAMMAZIONE GRAFICA/notes/ambient light.md",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530121209.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530121137.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530120704.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530120032.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530113906.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530113213.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530112049.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530111953.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530111753.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530105903.png",
+    "Diffuse materiale lambertiano.md",
+    "luce e colori nella realtà.md",
+    "luce spotlight.md",
+    "luci.md",
+    "PROGRAMMAZIONE GRAFICA/notes/trasformazioni shading.md",
+    "PROGRAMMAZIONE GRAFICA/notes/Specular.md",
+    "PROGRAMMAZIONE GRAFICA/notes/shading.md",
+    "INGEGNERIA DEI REQUISTI/notes/INTRO.md",
+    "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
+    "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
+    "INGEGNERIA DEI REQUISTI/notes/tipi di goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/soft goal.md",
     "Untitled.canvas",
-    "scala.md",
-    "PROGRAMMAZIONE GRAFICA/notes/vettori.md",
-    "PROGRAMMAZIONE GRAFICA/notes/trasformazioni 3D.md",
-    "matrici.md",
-    "PROGRAMMAZIONE GRAFICA/notes/1INDICE.md",
-    "PROGRAMMAZIONE GRAFICA/notes/operazioni con i vettori.md",
-    "PROGRAMMAZIONE GRAFICA/notes/angolo.md",
-    "operazioni con i vettori.md",
-    "vettori.md",
-    "MATEMATICA.md",
-    "angolo.md",
+    "PROGRAMMAZIONE GRAFICA/notes/LIGTHING.md",
+    "PROGRAMMAZIONE GRAFICA/notes/spazio vista.md",
+    "luce in computer grafica.md",
+    "Untitled 1.canvas",
     "INGEGNERIA DEI REQUISTI/notes",
     "INGEGNERIA DEI REQUISTI/images",
     "INGEGNERIA DEI REQUISTI",
@@ -229,7 +239,6 @@
     "PROGRAMMAZIONE GRAFICA",
     "COMPLESSITA ALGORITMI/notes",
     "COMPLESSITA ALGORITMI/images",
-    "INGEGNERIA DEL SOFTWARE/notes",
-    "INGEGNERIA DEL SOFTWARE/images"
+    "INGEGNERIA DEL SOFTWARE/notes"
   ]
 }

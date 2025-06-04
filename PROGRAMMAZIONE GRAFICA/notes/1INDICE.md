@@ -1,8 +1,9 @@
 
 
-- [[intro]]
+- [[PROGRAMMAZIONE GRAFICA/notes/intro]]
 - [[MATEMATICA]]
 - [[MODELLING]]
 - [[ANIMATION]]
 - [[RENDERING]]
 - [[PIPELINE GRAFICA]]
+- [[LIGTHING]]

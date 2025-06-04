@@ -1,5 +1,7 @@
+- [[INTRO]] 
 - [[GOAL ORIENTATION]]
 - [[RYSK ANALISYS]]
+- 
 
 
 
