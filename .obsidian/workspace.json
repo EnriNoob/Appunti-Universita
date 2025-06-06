@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "541e611074e8bb5d",
+        "id": "7c494a3e0bdf41eb",
         "type": "tabs",
         "children": [
           {
-            "id": "db737248d4651f90",
+            "id": "d991509ce880e845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INGEGNERIA DEI REQUISTI/notes/VALIDAZIONE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VALIDAZIONE"
+            }
+          },
+          {
+            "id": "170b8a63093d7772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rischi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rischi"
+            }
+          },
+          {
+            "id": "b66815958ecad785",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,15 +44,30 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "2e5ff73e116e7b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "valutazione dei rischi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "valutazione dei rischi"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "7c494a3e0bdf41eb",
+        "id": "c517f87063f1308e",
         "type": "tabs",
         "children": [
           {
-            "id": "d991509ce880e845",
+            "id": "2705441eb7d3b01f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -190,46 +233,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db737248d4651f90",
+  "active": "2705441eb7d3b01f",
   "lastOpenFiles": [
-    "attenuazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/muovere camera.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luci.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luce spotlight.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luce posizionale.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luce in computer grafica.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luce e colori nella realtà.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luce direzione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/Diffuse materiale lambertiano.md",
-    "PROGRAMMAZIONE GRAFICA/notes/costruzione matrice view.md",
-    "PROGRAMMAZIONE GRAFICA/notes/attenuazione.md",
-    "PROGRAMMAZIONE GRAFICA/notes/ambient light.md",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530121209.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530121137.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530120704.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530120032.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530113906.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530113213.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530112049.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530111953.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530111753.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250530105903.png",
-    "Diffuse materiale lambertiano.md",
-    "luce e colori nella realtà.md",
-    "luce spotlight.md",
-    "luci.md",
-    "PROGRAMMAZIONE GRAFICA/notes/trasformazioni shading.md",
-    "PROGRAMMAZIONE GRAFICA/notes/Specular.md",
-    "PROGRAMMAZIONE GRAFICA/notes/shading.md",
-    "INGEGNERIA DEI REQUISTI/notes/INTRO.md",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605180442.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605180308.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605180043.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605174754.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605173414.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605172415.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605162440.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605162213.png",
+    "INGEGNERIA DEI REQUISTI/notes/valutazione della strategia.md",
+    "INGEGNERIA DEI REQUISTI/notes/valutazione dei rischi.md",
+    "INGEGNERIA DEI REQUISTI/notes/strategie di risoluzione dei conflitti.md",
+    "INGEGNERIA DEI REQUISTI/notes/rischi.md",
+    "INGEGNERIA DEI REQUISTI/notes/overlap.md",
+    "INGEGNERIA DEI REQUISTI/notes/identificazione dei rischi.md",
+    "INGEGNERIA DEI REQUISTI/notes/identificazione conflitti e documentazione.md",
+    "INGEGNERIA DEI REQUISTI/notes/controllo del rischio.md",
     "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
-    "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
-    "INGEGNERIA DEI REQUISTI/notes/tipi di goal.md",
-    "INGEGNERIA DEI REQUISTI/notes/soft goal.md",
+    "controllo del rischio.md",
+    "rischi.md",
+    "valutazione dei rischi.md",
+    "Pasted image 20250605180442.png",
+    "Pasted image 20250605180308.png",
+    "Pasted image 20250605180043.png",
+    "valutazione della strategia.md",
+    "strategie di risoluzione dei conflitti.md",
+    "INGEGNERIA DEI REQUISTI/notes/ELICITAZIONE.md",
+    "INGEGNERIA DEI REQUISTI/notes/goal comportamentali.md",
+    "INGEGNERIA DEI REQUISTI/notes/GOAL ORIENTATION.md",
+    "INGEGNERIA DEI REQUISTI/notes/granuralità dei goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/ostacolo.md",
+    "INGEGNERIA DEI REQUISTI/notes/proprietà del dominio.md",
+    "INGEGNERIA DEI REQUISTI/notes/analisi ostacoli.md",
+    "INGEGNERIA DEI REQUISTI/notes/Background study.md",
+    "INGEGNERIA DEI REQUISTI/notes/INTRO.md",
+    "INGEGNERIA DEI REQUISTI/notes/RYSK ANALISYS.md",
+    "overlap.md",
+    "identificazione dei rischi.md",
     "Untitled.canvas",
-    "PROGRAMMAZIONE GRAFICA/notes/LIGTHING.md",
-    "PROGRAMMAZIONE GRAFICA/notes/spazio vista.md",
-    "luce in computer grafica.md",
     "Untitled 1.canvas",
     "INGEGNERIA DEI REQUISTI/notes",
     "INGEGNERIA DEI REQUISTI/images",
