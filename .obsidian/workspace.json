@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "9d70bdc6a50b10c9",
-        "type": "tabs",
+        "id": "80fd5acc2da26c69",
+        "type": "split",
         "children": [
           {
-            "id": "65781e3649fe6b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1INDICE"
-            }
+            "id": "9d70bdc6a50b10c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65781e3649fe6b01",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1INDICE"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b3a2b56953999032",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "160b567418dd124f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ing_requisiti"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -180,8 +205,22 @@
   },
   "active": "65781e3649fe6b01",
   "lastOpenFiles": [
-    "INGEGNERIA DEI REQUISTI/notes/SPECIFICA E DOCUMENTAZIONE.md",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609122636.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609122629.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609121614.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609121346.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609120603.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609120554.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609120104.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609120056.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609120048.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250609111039.png",
+    "QUALITY ASSURANCE.md",
+    "INGEGNERIA DEI REQUISTI/notes/QUALITY ASSURANCE.md",
+    "Pasted image 20250609122636.png",
+    "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
     "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
+    "INGEGNERIA DEI REQUISTI/notes/SPECIFICA E DOCUMENTAZIONE.md",
     "INGEGNERIA DEI REQUISTI/notes/GOAL ORIENTATION.md",
     "diagramma statechart.md",
     "INGEGNERIA DEI REQUISTI/notes/diagrammi sadt.md",
@@ -191,16 +230,6 @@
     "INGEGNERIA DEI REQUISTI/notes/diagramma statechart.md",
     "INGEGNERIA DEI REQUISTI/notes/diagramma state machine.md",
     "INGEGNERIA DEI REQUISTI/notes/diagramma casi d'uso.md",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606141202.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606140835.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606140343.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606135630.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606135620.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606135247.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606134454.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606133652.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606132857.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606132708.png",
     "diagramma casi d'uso.md",
     "INGEGNERIA DEI REQUISTI/gerarchia goal progetto.md",
     "INGEGNERIA DEI REQUISTI/notes/goal.md",
@@ -212,11 +241,7 @@
     "diagrammi dataflow.md",
     "diagrammi entità relazioni.md",
     "diagrammi sadt.md",
-    "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
     "INGEGNERIA DEI REQUISTI/notes/tipi di goal.md",
-    "INGEGNERIA DEI REQUISTI/notes/soft goal.md",
-    "diagramma state machine.md",
-    "INGEGNERIA DEI REQUISTI/notes/standard IEEE std-830.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "INGEGNERIA DEI REQUISTI/notes",
