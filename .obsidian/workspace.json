@@ -4,78 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c494a3e0bdf41eb",
+        "id": "9d70bdc6a50b10c9",
         "type": "tabs",
         "children": [
           {
-            "id": "d991509ce880e845",
+            "id": "65781e3649fe6b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INGEGNERIA DEI REQUISTI/notes/VALIDAZIONE.md",
+                "file": "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VALIDAZIONE"
-            }
-          },
-          {
-            "id": "170b8a63093d7772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rischi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rischi"
-            }
-          },
-          {
-            "id": "b66815958ecad785",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "2e5ff73e116e7b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "valutazione dei rischi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "valutazione dei rischi"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c517f87063f1308e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2705441eb7d3b01f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ing_requisiti"
+              "title": "1INDICE"
             }
           }
         ]
@@ -135,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96d1de9bcec789cf",
@@ -175,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1INDICE"
             }
           },
           {
@@ -215,12 +160,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,45 +178,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2705441eb7d3b01f",
+  "active": "65781e3649fe6b01",
   "lastOpenFiles": [
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605180442.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605180308.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605180043.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605174754.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605173414.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605172415.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605162440.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250605162213.png",
-    "INGEGNERIA DEI REQUISTI/notes/valutazione della strategia.md",
-    "INGEGNERIA DEI REQUISTI/notes/valutazione dei rischi.md",
-    "INGEGNERIA DEI REQUISTI/notes/strategie di risoluzione dei conflitti.md",
-    "INGEGNERIA DEI REQUISTI/notes/rischi.md",
-    "INGEGNERIA DEI REQUISTI/notes/overlap.md",
-    "INGEGNERIA DEI REQUISTI/notes/identificazione dei rischi.md",
-    "INGEGNERIA DEI REQUISTI/notes/identificazione conflitti e documentazione.md",
-    "INGEGNERIA DEI REQUISTI/notes/controllo del rischio.md",
-    "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
-    "controllo del rischio.md",
-    "rischi.md",
-    "valutazione dei rischi.md",
-    "Pasted image 20250605180442.png",
-    "Pasted image 20250605180308.png",
-    "Pasted image 20250605180043.png",
-    "valutazione della strategia.md",
-    "strategie di risoluzione dei conflitti.md",
-    "INGEGNERIA DEI REQUISTI/notes/ELICITAZIONE.md",
-    "INGEGNERIA DEI REQUISTI/notes/goal comportamentali.md",
+    "INGEGNERIA DEI REQUISTI/notes/SPECIFICA E DOCUMENTAZIONE.md",
+    "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
     "INGEGNERIA DEI REQUISTI/notes/GOAL ORIENTATION.md",
+    "diagramma statechart.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagrammi sadt.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagrammi entità relazioni.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagrammi dataflow.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagramma traccia eventi.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagramma statechart.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagramma state machine.md",
+    "INGEGNERIA DEI REQUISTI/notes/diagramma casi d'uso.md",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606141202.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606140835.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606140343.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606135630.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606135620.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606135247.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606134454.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606133652.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606132857.png",
+    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250606132708.png",
+    "diagramma casi d'uso.md",
+    "INGEGNERIA DEI REQUISTI/gerarchia goal progetto.md",
+    "INGEGNERIA DEI REQUISTI/notes/goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/raffinamento dei goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/categoria dei goal.md",
     "INGEGNERIA DEI REQUISTI/notes/granuralità dei goal.md",
-    "INGEGNERIA DEI REQUISTI/notes/ostacolo.md",
-    "INGEGNERIA DEI REQUISTI/notes/proprietà del dominio.md",
-    "INGEGNERIA DEI REQUISTI/notes/analisi ostacoli.md",
-    "INGEGNERIA DEI REQUISTI/notes/Background study.md",
-    "INGEGNERIA DEI REQUISTI/notes/INTRO.md",
-    "INGEGNERIA DEI REQUISTI/notes/RYSK ANALISYS.md",
-    "overlap.md",
-    "identificazione dei rischi.md",
+    "INGEGNERIA DEI REQUISTI/notes/goal comportamentali.md",
+    "diagramma traccia eventi.md",
+    "diagrammi dataflow.md",
+    "diagrammi entità relazioni.md",
+    "diagrammi sadt.md",
+    "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
+    "INGEGNERIA DEI REQUISTI/notes/tipi di goal.md",
+    "INGEGNERIA DEI REQUISTI/notes/soft goal.md",
+    "diagramma state machine.md",
+    "INGEGNERIA DEI REQUISTI/notes/standard IEEE std-830.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "INGEGNERIA DEI REQUISTI/notes",
