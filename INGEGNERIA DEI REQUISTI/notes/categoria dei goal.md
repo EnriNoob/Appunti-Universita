@@ -2,7 +2,7 @@
 ---
 ### goal funzionali
 
-sono le funzionalità e i servizi che il sistema dovrebbe fornire, ci servono per ragionare in termini operazionale
+sono le funzionalità e i servizi che il sistema dovrebbe fornire, ci servono per ragionare in termini operazionali
 
 ![[Pasted image 20250416173729.png]]
 
@@ -16,7 +16,7 @@ determina il livello di qualità, o meglio delle performance, dei servizi del si
 ---
 ### goal di sviluppo
 
-sono tutti quei goal che riguardano la qualità sviluppo dei servizi del sistema
+sono goal che esprimono le attività che dovranno essere svolte per lo sviluppo del sistema, come ad esempio la documentazione, la formazione del personale, ecc
 
 ![[Pasted image 20250416173939.png]]
 

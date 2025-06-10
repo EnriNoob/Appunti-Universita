@@ -1,4 +1,6 @@
-sono quelli che rappresentano funzionamenti prescrittivi (si o no) e possono essere di raggiungimento del goal o di mantenimento del goal. Quindi sono dei goal a cui una volta raggiunti la risposta di essi è booleana
+sono quelli che rappresentano funzionamenti prescrittivi (si o no), ovvero che esprimono il comportamento, e possono essere di raggiungimento del goal o di mantenimento del goal. Quindi sono dei goal, a cui una volta raggiunti, la risposta di essi è booleana
+
+Rappresentano dei vincoli che rappresentano un sottoinsieme dei funzionamenti che il nostro sistema deve accettare.
 
 ![[{41615603-2ED1-4DCC-B187-4C9774E4A0EE}.png]]
 
