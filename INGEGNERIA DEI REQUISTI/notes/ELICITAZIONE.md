@@ -37,3 +37,11 @@ ecco i metodi per acquisire conoscenza sul dominio:
 - [[Scenarios e Storyboard]]
 - [[Prototypes e mockup]]
 - [[Knowledge reuse]]
+
+
+---
+### Stakeholder-driven elicitazione
+
+- [[interviste]]
+- [[osservazione e studi etnografici]]
+- [[sessioni di gruppo]]
