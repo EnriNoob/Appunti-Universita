@@ -4,7 +4,7 @@ Uno scenario è la descrizione di come gli stakeholder interagiscono con il sist
 
 È una sequenzqa di di interazioni fra i vari componenti del sistema o sistema con i vari stakeholder, servono per esplorare nuove possibili interazioni da implementare. Sono molto efficaci per elicitazioni di requisiti
 
-Lo Storyboard invece è una sequenza di fotografie, è più simile ad un fumetto, che possono essere frasi, schizzi, diapositive o immagini, e possono includere annotazioni che spiegano chi sono i partecipanti, cosa accade loro, perch´e accade e cosa succede in caso di eventi alternativi.
+Lo Storyboard invece è una sequenza di fotografie, è più simile ad un fumetto, che possono essere frasi, schizzi, diapositive o immagini, e possono includere annotazioni che spiegano chi sono i partecipanti, cosa accade loro, perchè accade e cosa succede in caso di eventi alternativi.
 
 Gli storyboard possono essere:
 - attive: si chiede allo stakeholder di completare lo storyboard o di farne uno
