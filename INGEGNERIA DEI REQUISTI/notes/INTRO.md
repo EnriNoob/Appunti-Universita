@@ -40,10 +40,10 @@ L'ingegneria dei requisti, di fronte a questi due sistemi, è una serie di attiv
 ### Requisiti di sistema vs requisiti software
 
 - **requisiti di sistema**
-	sono i servizi che il futuro sistem to be soddisfacirà e sono formulate in termini di fenomeni nell'ambiente ad esempio
+	sono i servizi e le frasi prescrittive che il futuro sistem to be soddisfacirà e sono relative in termini di fenomeni nell'ambiente ad esempio
 	"il freno mano deve essere rilasciato quando il guidatore vuole partire"
 - __requisito software__
-	descrive come il software nel system to be dovrà fare in autonomo e sono formulati in termini di fenomeni che sono condivisi tra il software e ambiente
+	sono frasi prescrittive che descrivono come il software nel system to be dovrà fare in autonomo e sono formulati in termini di fenomeni che sono condivisi tra il software e ambiente
 	ad esempio
 	 ![[Pasted image 20250604113555.png]] 
 

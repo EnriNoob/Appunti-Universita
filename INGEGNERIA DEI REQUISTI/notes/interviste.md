@@ -10,7 +10,7 @@ si convocano gli stakeholder in un meeting per intavolare una discussione, le lo
 
 Le interviste possono essere fatte da più gruppi su diversi stakeholder per velocità
 
-L' Efficacia dell’intervista dipende dalla capacità dell’intervistatore di gestire la conversazione, mantenendo il controllo dell’intervista pur permettendo all’intervistato di esprimersi libera- mente. Le interviste possono svelare dettagli critici sul funzionamento interno del sistema che non sono immediatamente evidenti attraverso l’analisi documentale o osservazione diretta.
+L' Efficacia dell’intervista dipende dalla capacità dell’intervistatore di gestire la conversazione, mantenendo il controllo dell’intervista pur permettendo all’intervistato di esprimersi liberamente. Le interviste possono svelare dettagli critici sul funzionamento interno del sistema che non sono immediatamente evidenti attraverso l’analisi documentale o osservazione diretta.
 
 l'efficacia di una intervista può essere misurata
 ![[Pasted image 20250611175409.png]]
