@@ -1,4 +1,6 @@
 - [[tools]]
 - [[hello window]]
+- [[vertex buffer object (vbo)]]
+- [[vertex array object]]
 - [[hardware pipeline]]
 - 
