@@ -34,7 +34,7 @@ Regole stilistiche per una buona specifica in Linguaggio Naturale (LN):
 - Evita gergo e acronimi non necessari e se in caso vengono usati è necessario fornire una spiegazione.
 - Usa esempi suggestivi per chiarire affermazioni astratte.
 - Fornisci diagrammi per relazioni complesse tra gli elementi.
-- spesso è funzionale aggiungere una tabella decisionale che spiega un po' il funzionamento del sistema ne caso di complesse combinazioni di condizioni
+- spesso è funzionale aggiungere una tabella decisionale che spiega un po' il funzionamento del sistema nel caso di complesse combinazioni di condizioni
 	![[Pasted image 20250606101315.png]]
 	Questo approccio assicura una completa verifica e un’integrazione logica delle condizioni di input e output, in questa tabella ci si può accorgere se avvengono delle ottimizzazioni. Nell'esempio la prima e la terza colonna possono riunite in una sola, visto che hanno gli stessi output.
 	Questa fase di tabulazione può essere d'aiuto nella creazione di test di accettazione

@@ -9,7 +9,7 @@ si tratta di una vista funzionale del sistema modellato in termini di:
 - serivizi forniti
 - servizi dispiegati sotto varie condizioni per il soddisfaccimento dei goal
 
-La rappresentazione avviene sempre mediante l’ausilio dei diagrammi UML declinati ina maniera funzionale alla modellazione dei requisiti.
+La rappresentazione avviene sempre mediante l’ausilio dei diagrammi UML declinati in maniera funzionale alla modellazione dei requisiti.
 
 Gli obiettivi di tale diagramma sono molteplici, tra cui:
 

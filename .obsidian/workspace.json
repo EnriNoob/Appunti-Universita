@@ -4,107 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65a89d74a6b6d768",
+        "id": "8cb8b32bbf742b15",
         "type": "tabs",
         "children": [
           {
-            "id": "54af0d2b2016b663",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "1INDICE"
-            }
-          },
-          {
-            "id": "3ef0a453cd169e01",
+            "id": "80ba804cedf7b66a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/notes/INTRO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "INTRO"
-            }
-          },
-          {
-            "id": "ca16ed90c2622b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/notes/CONCEPTUAL OBJECTS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CONCEPTUAL OBJECTS"
-            }
-          },
-          {
-            "id": "a0a0a27670e20aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/notes/AGENT RESPONSIBILITY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGENT RESPONSIBILITY"
-            }
-          },
-          {
-            "id": "a5e14330ae1c81af",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ing_requisiti"
-            }
-          },
-          {
-            "id": "0f91d81f086e0955",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/frenk.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "frenk"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e3762ea697a54e90",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3506abdcdba226f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ing_requisiti"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.5
   },
   "right": {
     "id": "96d1de9bcec789cf",
@@ -247,12 +157,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 555.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,49 +171,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "f3506abdcdba226f",
+  "active": "9783552687a6171c",
   "lastOpenFiles": [
+    "tools.md",
+    "OPENGL.md",
+    "hello window.md",
+    "PROGRAMMAZIONE GRAFICA/notes/tools.md",
+    "PROGRAMMAZIONE GRAFICA/notes/tools di supporto.md",
+    "PROGRAMMAZIONE GRAFICA/notes/PHYSICS BASED ANIMATION.md",
+    "PROGRAMMAZIONE GRAFICA/notes/particella dinamica.md",
+    "PROGRAMMAZIONE GRAFICA/notes/OPENGL.md",
+    "PROGRAMMAZIONE GRAFICA/notes/luce intensità.md",
+    "PROGRAMMAZIONE GRAFICA/notes/hello window.md",
+    "PROGRAMMAZIONE GRAFICA/notes/hardware pipeline.md",
+    "PROGRAMMAZIONE GRAFICA/notes/descrete collision detection.md",
+    "PROGRAMMAZIONE GRAFICA/notes/continuos collision detection.md",
+    "PROGRAMMAZIONE GRAFICA/notes/collisioni tra due particelle.md",
+    "PROGRAMMAZIONE GRAFICA/notes/basic.md",
+    "PROGRAMMAZIONE GRAFICA/notes/urto.md",
+    "Pasted image 20250715090956.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715100740.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715095035.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715094751.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715094053.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715093914.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715093619.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715093037.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715090956.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250904150640.png",
+    "hardware pipeline.md",
+    "PROGRAMMAZIONE GRAFICA/notes/1INDICE.md",
+    "PROGRAMMAZIONE GRAFICA/notes/PIPELINE GRAFICA.md",
+    "PROGRAMMAZIONE GRAFICA/notes/sistema di coordinate.md",
+    "basic.md",
+    "tools di supporto.md",
+    "PHYSICS BASED ANIMATION.md",
+    "particella dinamica.md",
+    "urto.md",
+    "PROGRAMMAZIONE GRAFICA/notes/LIGTHING.md",
     "INGEGNERIA DEI REQUISTI/frenk.pdf",
-    "INGEGNERIA DEI REQUISTI/notes/SYSTEM OPERATIONS.md",
-    "Pasted image 20250612170508.png",
-    "Pasted image 20250612165640.png",
-    "Pasted image 20250612164634.png",
-    "Pasted image 20250612155630.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250612170508.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250612165640.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250612164900.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250612164634.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250612164209.png",
-    "INGEGNERIA DEI REQUISTI/images/Pasted image 20250612164010.png",
-    "INGEGNERIA DEI REQUISTI/notes/controllo del rischio.md",
-    "INGEGNERIA DEI REQUISTI/notes/1INDICE.md",
     "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
-    "INGEGNERIA DEI REQUISTI/notes/rischi.md",
-    "INGEGNERIA DEI REQUISTI/notes/valutazione dei rischi.md",
-    "INGEGNERIA DEI REQUISTI/notes/identificazione dei rischi.md",
-    "INGEGNERIA DEI REQUISTI/notes/VALIDAZIONE.md",
-    "INGEGNERIA DEI REQUISTI/notes/valutazione della strategia.md",
-    "INGEGNERIA DEI REQUISTI/notes/strategie di risoluzione dei conflitti.md",
-    "INGEGNERIA DEI REQUISTI/notes/identificazione conflitti e documentazione.md",
-    "INGEGNERIA DEI REQUISTI/notes/overlap.md",
-    "INGEGNERIA DEI REQUISTI/notes/tipi di inconsistenze.md",
-    "INGEGNERIA DEI REQUISTI/notes/AGENT RESPONSIBILITY.md",
-    "INGEGNERIA DEI REQUISTI/notes/CONCEPTUAL OBJECTS.md",
-    "INGEGNERIA DEI REQUISTI/notes/INTRO.md",
     "INGEGNERIA DEI REQUISTI/ING - SW .pdf",
-    "INGEGNERIA DEI REQUISTI/notes/QUALITY ASSURANCE.md",
-    "SYSTEM OPERATIONS.md",
-    "INGEGNERIA DEI REQUISTI/notes/ELICITAZIONE.md",
-    "INGEGNERIA DEI REQUISTI/notes/diagramma casi d'uso.md",
-    "INGEGNERIA DEI REQUISTI/notes/sessioni di gruppo.md",
-    "INGEGNERIA DEI REQUISTI/notes/RYSK ANALISYS.md",
-    "INGEGNERIA DEI REQUISTI/notes/GOAL DIAGRAMS.md",
-    "INGEGNERIA DEI REQUISTI/notes/GOAL ORIENTATION.md",
-    "INGEGNERIA DEI REQUISTI/notes/EVOLUTION.md",
-    "INGEGNERIA DEI REQUISTI/notes/liste di tracciabilità.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "INGEGNERIA DEI REQUISTI/notes",

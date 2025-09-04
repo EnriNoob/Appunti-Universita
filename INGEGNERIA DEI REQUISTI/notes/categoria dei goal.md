@@ -2,7 +2,7 @@
 ---
 ### goal funzionali
 
-sono le funzionalità e i servizi che il sistema dovrebbe fornire, ci servono per ragionare in termini operazionali
+sono le funzionalità e i servizi che il sistema dovrebbe fornire, ci servono per ragionare in termini operazionali per costruire il modello operativo del sistema
 
 ![[Pasted image 20250416173729.png]]
 

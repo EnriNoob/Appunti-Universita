@@ -1,4 +1,4 @@
-A Questo dobbiamo arrivare arrivare ad una versione consolitdata e finale del documento dei requisiti (completo e corretto). Questo documento può includere alla fine anche:
+A Questo dobbiamo arrivare arrivare ad una versione consolidata e finale del documento dei requisiti (completo e corretto). Questo documento può includere alla fine anche:
 - Test di accettazione
 - Piano di sviluppo
 - contratto del progetto software
@@ -50,7 +50,7 @@ La revisione deve essere fatta nel momento opportuno, non troppo presto ma neanc
 ---
 ### Checklist
 
-L’obiettivo principale delle liste di controllo per l’ispezione è di dirigere la ricerca dei difetti verso specifiche problematiche, migliorando così l’Aefficienza e l’efficacia del processo di revisione. Le liste di controllo si suddividono in diverse categorie, ognuna con un focus particolare
+L’obiettivo principale delle liste di controllo per l’ispezione è di dirigere la ricerca dei difetti verso specifiche problematiche, migliorando così l’efficienza e l’efficacia del processo di revisione. Le liste di controllo si suddividono in diverse categorie, ognuna con un focus particolare
 
 - Liste basate sui difetti
 	Queste liste comprendono domande generiche che sono strutturate in base al tipo di difetto. L’intento è di coprire un ampio spettro di possibili anomalie in modo organizzato.

@@ -173,5 +173,3 @@ Il raffinamento degli agenti:
 ### Derivare context diagram dai goals
 
 ![[Pasted image 20250612115636.png]]
-
-x
