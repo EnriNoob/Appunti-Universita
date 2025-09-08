@@ -8,8 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80ba804cedf7b66a",
+            "id": "61ca74703fec7ac7",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMMAZIONE GRAFICA/notes/1INDICE.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "1INDICE"
+            }
+          },
+          {
+            "id": "7ed60d1f39aa383a",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,52 +34,41 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "OPENGL"
             }
           },
           {
-            "id": "e8499a7dab2a23b9",
+            "id": "2535d5f3d39dd5c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vertex array object.md",
+                "file": "PROGRAMMAZIONE GRAFICA/notes/shading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vertex array object"
+              "title": "shading"
             }
           },
           {
-            "id": "da6c74e2e62965c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "f6ce86e55d41ba2b",
+            "id": "39439a030aee90ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vertex buffer object (vbo).md",
+                "file": "TEMPLATES/code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vertex buffer object (vbo)"
+              "title": "code"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 378.5
   },
   "right": {
     "id": "96d1de9bcec789cf",
@@ -160,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
+                "file": "TEMPLATES/code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ing_requisiti"
+              "title": "Backlinks for code"
             }
           },
           {
@@ -201,12 +207,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,54 +227,55 @@
       "media-extended:Open media": false
     }
   },
-  "active": "e8499a7dab2a23b9",
+  "active": "39439a030aee90ed",
   "lastOpenFiles": [
-    "vertex buffer object (vbo).md",
-    "vertex array object.md",
-    "Pasted image 20250904180649.png",
-    "Pasted image 20250904180606.png",
+    "PROGRAMMAZIONE GRAFICA/notes/Specular.md",
+    "PROGRAMMAZIONE GRAFICA/notes/vertex buffer object (VBO).md",
     "PROGRAMMAZIONE GRAFICA/notes/OPENGL.md",
-    "Pasted image 20250904173603.png",
-    "Pasted image 20250904173142.png",
-    "PROGRAMMAZIONE GRAFICA/notes/hello window.md",
+    "TEMPLATES/code.md",
+    "mappe lighting.md",
+    "PROGRAMMAZIONE GRAFICA/notes/vertex array object (VAO).md",
+    "PROGRAMMAZIONE GRAFICA/notes/trasformazioniOpenGL.md",
+    "PROGRAMMAZIONE GRAFICA/notes/textureOpenGL.md",
+    "PROGRAMMAZIONE GRAFICA/notes/shaders.md",
+    "PROGRAMMAZIONE GRAFICA/notes/phong shading.md",
+    "PROGRAMMAZIONE GRAFICA/notes/materiali.md",
+    "PROGRAMMAZIONE GRAFICA/notes/mappe lighting.md",
+    "PROGRAMMAZIONE GRAFICA/notes/illuminazione speculare.md",
+    "PROGRAMMAZIONE GRAFICA/notes/illuminazione diffusione.md",
+    "PROGRAMMAZIONE GRAFICA/notes/illuminazione ambientale.md",
+    "PROGRAMMAZIONE GRAFICA/notes/colori in OpenGL.md",
+    "PROGRAMMAZIONE GRAFICA/notes/3d in OpenGL.md",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908160729.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908160135.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908155818.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908155125.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908154535.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908153718.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908153210.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908144147.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908143917.png",
+    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250908142327.png",
+    "materiali.md",
     "PROGRAMMAZIONE GRAFICA/notes/1INDICE.md",
+    "PROGRAMMAZIONE GRAFICA/notes/shading.md",
+    "phong shading.md",
+    "illuminazione speculare.md",
+    "PROGRAMMAZIONE GRAFICA/notes/proprietà dei materiali.md",
+    "illuminazione diffusione.md",
     "PROGRAMMAZIONE GRAFICA/notes/ambient light.md",
-    "conflict-files-obsidian-git.md",
-    "tools.md",
-    "OPENGL.md",
-    "hello window.md",
-    "PROGRAMMAZIONE GRAFICA/notes/tools.md",
-    "PROGRAMMAZIONE GRAFICA/notes/tools di supporto.md",
-    "PROGRAMMAZIONE GRAFICA/notes/PHYSICS BASED ANIMATION.md",
-    "PROGRAMMAZIONE GRAFICA/notes/particella dinamica.md",
-    "PROGRAMMAZIONE GRAFICA/notes/luce intensità.md",
-    "PROGRAMMAZIONE GRAFICA/notes/hardware pipeline.md",
-    "PROGRAMMAZIONE GRAFICA/notes/descrete collision detection.md",
-    "PROGRAMMAZIONE GRAFICA/notes/continuos collision detection.md",
-    "PROGRAMMAZIONE GRAFICA/notes/collisioni tra due particelle.md",
-    "PROGRAMMAZIONE GRAFICA/notes/basic.md",
-    "PROGRAMMAZIONE GRAFICA/notes/urto.md",
-    "Pasted image 20250715090956.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715100740.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715095035.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715094751.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715094053.png",
-    "PROGRAMMAZIONE GRAFICA/images/Pasted image 20250715093914.png",
-    "hardware pipeline.md",
-    "PROGRAMMAZIONE GRAFICA/notes/PIPELINE GRAFICA.md",
-    "PROGRAMMAZIONE GRAFICA/notes/sistema di coordinate.md",
-    "basic.md",
+    "PROGRAMMAZIONE GRAFICA/notes/Diffuse materiale lambertiano.md",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled.base",
     "INGEGNERIA DEI REQUISTI/frenk.pdf",
     "INGEGNERIA DEI REQUISTI/ing_requisiti.pdf",
     "INGEGNERIA DEI REQUISTI/ING - SW .pdf",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "INGEGNERIA DEI REQUISTI/notes",
     "INGEGNERIA DEI REQUISTI/images",
     "INGEGNERIA DEI REQUISTI",
     "PROGRAMMAZIONE GRAFICA/notes",
-    "PROGRAMMAZIONE GRAFICA/images",
-    "PROGRAMMAZIONE GRAFICA",
-    "COMPLESSITA ALGORITMI/notes"
+    "PROGRAMMAZIONE GRAFICA/images"
   ]
 }

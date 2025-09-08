@@ -7,7 +7,6 @@ le proprietà principali sono
 - Riflettanza
 - Rugosità
 
-
 Nella computer grafica le proprietà dei materiali vengono codificate a
 - **livello di oggetto**
 	ovvero l'intero oggetto sarà composto da un solo materiale

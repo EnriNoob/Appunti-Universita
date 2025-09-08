@@ -35,7 +35,7 @@ se applicassimo lo yaw stiamo ruotando la camera orizzontalmente (girare la test
 Sapendo l'angolo possiamo trovare il vettore direzione della camera
 
 
-```
+```cpp
 glm::vec3 direction;
 direction.x = cos(glm::radians(yaw)); // Note that we convert the angle to radians first
 direction.z = sin(glm::radians(yaw));
@@ -49,13 +49,13 @@ La stessa cosa si può fare con il pitch guardando l'asse y come se fossimo sedu
 
 Si può vedere che la direzione della componente y è uguale al sin(ptich) quindi l'aggiungiamo al vettore
 
-```
+```cpp
 direction.y = sin(glm::radians(pitch));  
 ```
 
 Ma siccome i lati XZ sono influenzati da cos(pitch) dobbiamo includerli nei componenti già presenti nel vettore
 
-```
+```cpp
 direction.x = cos(glm::radians(yaw)) * cos(glm::radians(pitch));
 direction.y = sin(glm::radians(pitch));
 direction.z = sin(glm::radians(yaw)) * cos(glm::radians(pitch));
